@@ -1,2 +1,2 @@
 # Python-SQL-project
-Training for a DSTI class. Functional but can be improved.
+Training for a DSTI class. Operational but to be improved.
